@@ -1,12 +1,69 @@
 # Atliq Hospitality Revenue Analysis
- •	Analyzed dataset of 25 restaurants of Atliq in India, which shows average rating of 3.6/5, revenue per available room 7.4k.
+**Total Metrics**
+
+**Total Revenue:** ₹1.7 billion
+
+**Total Bookings:** 134.6K
+
+**Cancelled Bookings:** 33.4K (24.8% cancellation rate)
+
+**Average Rating:** 3.62
+
+**Occupancy Rate:** 57.87%
+
+**City-wise Performance:**
+
+
+Mumbai generated the highest revenue (₹669M) and has the highest bookings.
+Delhi has the highest occupancy rate at 60.5%.
+
+
+**Revenue Trend:**
+
+
+Revenue fluctuated over weeks, peaking in week 19 at ₹140.71M, with an average rating of 3.635.
+
 
  ![Atliq Hospitality d1](https://github.com/user-attachments/assets/9a11bb7c-a444-410d-a008-c8ec15c3c888)
 
- 
- •	Crafted Power BI reports for analysis & restaurant performance by using Power Query, Charts and DAX for calculations
+ **Room Class Revenue:**
 
- ![Atliq Hospitality d2](https://github.com/user-attachments/assets/e0881e68-73fe-43ef-ad94-790eada893bf)
+Elite rooms contribute the most revenue (₹560M, 32.79%).
+Presidential and Premium classes combined contribute 49% of total revenue.
+
+**Booking Platform Contribution:**
+
+Majority of revenue (₹699M) comes from the "Others" platform.
+Booking Status:
+
+Checked-out bookings dominate with 94.4K, while No-shows are minimal at 6.8K.
+
+**Category Insights:**
+
+Business category has the highest share of bookings at 62.16%, compared to Luxury.
+
+![atliq Dash2](https://github.com/user-attachments/assets/45236dfd-a94c-4488-925c-1534568e5b01)
+
+
+
+**Strategies to Improve Atliq Hospitality Business:**
+
+**Boost Occupancy in Low-Performing Cities:** Focus on Bangalore with targeted promotions and dynamic pricing.
+
+**Reduce Cancellations:** Implement stricter cancellation policies and flexible booking options to minimize losses.
+
+**Enhance Direct Booking Channels:** Invest in user-friendly direct platforms and marketing to reduce dependency on intermediaries.
+
+**Improve Customer Ratings:** Train staff, enhance services, and introduce loyalty programs to raise the average rating above 3.62
+
+**Leverage Business Bookings:** Offer corporate packages and expand business-focused services for consistent revenue streams.
+
+
+
+
+
+
+
 
 
  
